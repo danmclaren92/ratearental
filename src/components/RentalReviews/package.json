@@ -1,0 +1,6 @@
+{
+  "name": "RentalReviews",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./RentalReviews.js"
+}

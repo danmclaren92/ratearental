@@ -1,0 +1,6 @@
+{
+  "name": "RentalList",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./RentalList.js"
+}
